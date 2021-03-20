@@ -23,6 +23,9 @@
   .spacer {
     flex: 1;
   }
+button{
+  margin-left: 240px;
+}
 
   .toolbar {
     position: absolute;
