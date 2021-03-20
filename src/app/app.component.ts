@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ejercicio1';
+
+  HacerCambios()
+  {
+    this.title = "Cambiado";
+  }
 }
